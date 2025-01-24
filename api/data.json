@@ -382,5 +382,30 @@
       "image": "kasthbhanjanhanumanji.png"
     },
     "liveUrl": "https://www.youtube.com/embed/SOMWOTvJ6f8"
+  },
+  {
+    "id": 20,
+    "name": "govinddevji",
+    "live": true,
+    "streamInfo": {
+      "channelId": "UCSCMDOZrz_4-1dtnXsp8M7Q",
+      "title": "THIKANA MANDIR SHREE GOVIND DEVJI Live Darshan"
+    },
+    "aartiTimings": [
+      "05:00",
+      "07:45",
+      "09:30",
+      "10:45",
+      "17:00",
+      "17:45",
+      "20:00"
+    ],
+    "templeInfo": {
+      "description": "The historic Govind Dev Ji temple is situated in City Palace of Jaipur in Rajasthan, India. The temple is dedicated to Govind Dev (Krishna) and his consort Radha. The deities of the temple were brought from Vrindavan by Raja Sawai Jai Singh II, the founder of Jaipur. This Vaishnav temple is considered to be one of the most sacred and significant temple for devotees. According to the popular legend, the image of Govind Devji is also called 'Bajrakrit' because it was created by Bajranabh – The great-grandson of Krishna. Around 5,000 years ago when Bajranabh was around 13 years old, he asked his Grand mother (daughter-in-law of Krishna) as to how Krishna looked like. Then based on her description, he made three images. In first image, the feet show the resemblance with the Krishna's feet. In second image, chest area looked like Krishna's. In third image, the face showed complete resemblance with Krishna's face when he was incarnated on Earth. The first one image is known as Lord 'Madan Mohan ji'. The second image is called as 'Gopinath ji' and the third image is popular with the name of 'Govind Devji'. With the passing of ages, these pious divine images were also lost. Some 500 years ago, Vaishnava Acharya Sri Chaitanya Mahaprabhu asked one of his disciples Sri Rupa Goswami to excavate the divine icon of Govinda, which had been buried to protect it from the invaders.",
+      "hi": "भगवान कृष्ण का जयपुर का सबसे प्रसिद्ध बिना शिखर का मंदिर। यह चन्द्र महल के पूर्व में बने जय निवास बगीचे के मध्य अहाते में स्थित है।[1] संरक्षक देवता गोविंदजी की मुर्ति पहले वृंदावन के मंदिर में स्थापित थी जिसको सवाई जय सिंह द्वितीय ने अपने परिवार के देवता के रूप में यहाँ पुनः स्थापित किया था। भगवान श्री कृष्ण के प्रपौत्र एवं मथुरा के राजा वज्रनाभ ने अपनी माता से सुने गए भगवान श्री कृष्ण के स्वरूप के आधार पर तीन विग्रहों का निर्माण करवाया इनमें से पहला विग्रह है गोविंद देव जी का है दूसरा विग्रह जयपुर के ही श्री गोपीनाथ जी का है तथा तीसरा विग्रह है श्री मदन मोहन जी करौली का है वजरनाभ के माता के अनुसार श्री गोविंद देव का मुख, श्री गोपीनाथ का वक्ष, श्री मदन मोहन के चरण श्री कृष्ण के स्वरूप से मेल खाते हैं पहले यह तीनों विग्रह मथुरा में स्थापित थे किंतु 11वीं शताब्दी ईस्वी के प्रारंभ में मोहम्मद गजनवी के आक्रमण के भय से इन्हें जंगल में छिपा दिया गया 16 वी शताब्दी में चैतन्य महाप्रभु के आदेश पर उनके शिष्यों ने इन विग्रहों को खोज निकाला और मथुरा वृंदावन में स्थापित कर दिया सन 1669 में जब औरंगजेब ने मथुरा के समस्त मंदिरों को नष्ट करने का आदेश दिया तो गौड़ीय संप्रदाय के पुजारी इन विग्रहों को उठाकर जयपुर भाग आए इन तीनों विग्रहों को जयपुर में ही स्थापित कर दिया गया गोविंद देव जी को जयपुर का शासक माना गया और वहां शासकीय मर्यादा लागू हुई, ",
+      "officialWebsite": "https://mandirshrigovinddevjijaipur.org/",
+      "image": "govinddevji.png"
+    },
+    "liveUrl": "https://www.youtube.com/embed/SOMWOTvJ6f8"
   }
 ]
