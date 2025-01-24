@@ -18,7 +18,7 @@
       "officialWebsite": "https://somnath.org/",
       "image": "somnath.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/ucEVNNTsXE4"
+    "liveUrl": "https://www.youtube.com/embed/cdOGpjJaZnc"
   },
   {
     "id": 2,
@@ -44,7 +44,7 @@
     "live": true,
     "streamInfo": {
       "channelId": "UCEUuwXHmHckwmdANSy4c7Sw",
-      "title": "Shri Mahakaleshwar Mandir Prabandha Samitee -Official Channel"
+      "title": "Shri Mahakaleshwar Mandir Prabandha Samitee"
     },
     "aartiTimings": [
       "04:00",
@@ -60,7 +60,7 @@
       "officialWebsite": "https://shrimahakaleshwar.com/",
       "image": "mahakaleshwar.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/L0L8EMGjyR4"
+    "liveUrl": "https://www.youtube.com/embed/02mEcgQ_2xM"
   },
   {
     "id": 4,
@@ -100,7 +100,7 @@
       "officialWebsite": "https://babadham.org/",
       "image": "baidyanath.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/4V50oQMcq2o"
+    "liveUrl": "https://www.youtube.com/embed/WBr3FO4d7TY"
   },
   {
     "id": 6,
@@ -295,7 +295,7 @@
       "officialWebsite": "https://shreeganeshkhajrana.com/",
       "image": "khajrana.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/jUzG8VPaDTo"
+    "liveUrl": "https://www.youtube.com/embed/RZ_2x1YrIfg"
   },
   {
     "id": 16,
@@ -315,7 +315,7 @@
       "officialWebsite": "https://maavaishnodevi.org/",
       "image": "matavaishnodevi.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/T3dKbNpTk08"
+    "liveUrl": "https://www.youtube.com/embed/TWtRFxRUhY0"
   },
   {
     "id": 17,
@@ -337,7 +337,7 @@
       "officialWebsite": "https://shrisanwariyaseth.org/",
       "image": "sanwaliyaji.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/w-tndSNXQBw"
+    "liveUrl": "https://www.youtube.com/embed/Pt0Ef4FvSbU"
   },
   {
     "id": 18,
@@ -359,7 +359,7 @@
       "officialWebsite": "https://www.dwarkadhishji.org/",
       "image": "dwarkadhish.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/-o-p28_AtsY"
+    "liveUrl": "https://www.youtube.com/embed/_naClJ7i6nw"
   },
   {
     "id": 19,
@@ -406,6 +406,6 @@
       "officialWebsite": "https://mandirshrigovinddevjijaipur.org/",
       "image": "govinddevji.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/SOMWOTvJ6f8"
+    "liveUrl": "https://www.youtube.com/embed/c7jtxJuC07c"
   }
 ]
