@@ -114,7 +114,7 @@ const fs = require('fs');
 const path = require('path');
 
 // API key for accessing YouTube Data API
-const API_KEY = 'AIzaSyAh4PtE9y4aqGPmKY7SObta-BVJ7bgYs08';
+const API_KEY = 'AIzaSyB9shc4Sc1ET2sfCWAnHm8K9GYjSKD5z0s';
 
 // Path to the data file
 const dataFilePath = path.join(__dirname, 'data.json');
