@@ -18,7 +18,7 @@
       "officialWebsite": "https://somnath.org/",
       "image": "somnath.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/cdOGpjJaZnc"
+    "liveUrl": "https://www.youtube.com/embed/ucEVNNTsXE4"
   },
   {
     "id": 2,
@@ -60,7 +60,7 @@
       "officialWebsite": "https://shrimahakaleshwar.com/",
       "image": "mahakaleshwar.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/02mEcgQ_2xM"
+    "liveUrl": "https://www.youtube.com/embed/w1YcIUWnaxI"
   },
   {
     "id": 4,
@@ -100,7 +100,7 @@
       "officialWebsite": "https://babadham.org/",
       "image": "baidyanath.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/WBr3FO4d7TY"
+    "liveUrl": "https://www.youtube.com/embed/5pT34LR2m6g"
   },
   {
     "id": 6,
@@ -295,7 +295,7 @@
       "officialWebsite": "https://shreeganeshkhajrana.com/",
       "image": "khajrana.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/RZ_2x1YrIfg"
+    "liveUrl": "https://www.youtube.com/embed/fxoCwnroOno"
   },
   {
     "id": 16,
@@ -315,7 +315,7 @@
       "officialWebsite": "https://maavaishnodevi.org/",
       "image": "matavaishnodevi.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/TWtRFxRUhY0"
+    "liveUrl": "https://www.youtube.com/embed/wn0zteVFr-8"
   },
   {
     "id": 17,
@@ -327,6 +327,7 @@
     },
     "aartiTimings": [
       "05:30",
+      "10:00",
       "02:30",
       "20:00",
       "21:15"
@@ -337,7 +338,7 @@
       "officialWebsite": "https://shrisanwariyaseth.org/",
       "image": "sanwaliyaji.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/Pt0Ef4FvSbU"
+    "liveUrl": "https://www.youtube.com/embed/4F67mY_M6XQ"
   },
   {
     "id": 18,
@@ -359,7 +360,7 @@
       "officialWebsite": "https://www.dwarkadhishji.org/",
       "image": "dwarkadhish.png"
     },
-    "liveUrl": "https://www.youtube.com/embed/_naClJ7i6nw"
+    "liveUrl": "https://www.youtube.com/embed/iQ1_Hvwryx0"
   },
   {
     "id": 19,
@@ -407,5 +408,26 @@
       "image": "govinddevji.png"
     },
     "liveUrl": "https://www.youtube.com/embed/c7jtxJuC07c"
+  },
+  {
+    "id": 21,
+    "name": "baglamukhimataji",
+    "live": true,
+    "streamInfo": {
+      "channelId": "UCjw3KKoDkZwuFWedwvezDEQ",
+      "title": "Mabaglamukhi Nalkheda Live darshan chennal"
+    },
+    "aartiTimings": [
+      "07:45",
+      "09:30",
+      "10:45",
+      "17:00"
+    ],
+    "templeInfo": {
+      "description": "The Bagalamukhi Temple, Nalkheda is located on the banks of the Lakhundar River, a tributary of the Narmada River, in Nalkheda, a town in the Agar Malwa district of Madhya Pradesh, India. It is dedicated to the goddess Bagalamukhi, a devi and one of the ten Mahavidyas. Mataji is associated with the colour yellow. The temple is a three-faced temple, with the goddess Bagalamukhi in the centre, flanked by the goddesses Lakshmi and Saraswati. The temple is also associated with the goddesses Krishna, Hanuman, and Bhairav. The temple is said to have been established by Yudhishthira, the eldest of the Pandavas, on the advice of Lord Krishna, to gain victory.",
+      "hi": "मध्यप्रदेश में तीन मुखों वाली त्रिशक्ति माता बगलामुखी का यह मंदिर आगर जिले की तहसील नलखेड़ा में लखुंदर नदी के किनारे स्थित है। द्वापर युगीन यह मंदिर अत्यंत चमत्कारिक है। यहाँ देशभर से शैव और शाक्त मार्गी साधु-संत तांत्रिक अनुष्ठान के लिए आते रहते हैं। इस मंदिर में माता बगलामुखी के अतिरिक्त माता लक्ष्मी, कृष्ण, हनुमान, भैरव तथा सरस्वती भी विराजमान हैं। इस मंदिर की स्थापना महाभारत में विजय पाने के लिए भगवान कृष्ण के निर्देश पर महाराजा युधि‍ष्ठिर ने की थी। मान्यता यह भी है कि यहाँ की बगलामुखी प्रतिमा स्वयंभू है |",
+      "officialWebsite": "http://mabaglamukhi.org/",
+      "image": "baglamukhimataji.png"
+    }
   }
 ]
