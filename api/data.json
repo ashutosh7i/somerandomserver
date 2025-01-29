@@ -5,7 +5,7 @@
     "live": true,
     "streamInfo": {
       "channelId": "UCT1egsvA08YcdMLiEu1DTRg",
-      "title": "Shree Somnath Temple, First"
+      "title": "🔴 Live Pratah MahaPooja & Pratah Aarti - Shree Somnath Temple, First"
     },
     "aartiTimings": [
       "07:00",
@@ -21,7 +21,7 @@
     "liveUrl": "https://www.youtube.com/embed/ucEVNNTsXE4"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "mahakaal",
     "live": true,
     "streamInfo": {
@@ -45,7 +45,7 @@
     "liveUrl": "https://www.youtube.com/embed/w1YcIUWnaxI"
   },
   {
-    "id": 5,
+    "id": 3,
     "name": "baidyanath",
     "live": true,
     "streamInfo": {
@@ -67,25 +67,7 @@
     "liveUrl": "https://www.youtube.com/embed/5pT34LR2m6g"
   },
   {
-    "id": 2,
-    "name": "mallikarjuna",
-    "live": false,
-    "liveUrl": "https://www.youtube.com/embed/rfppvswfMyc?start=11",
-    "fallbackUrl": "",
-    "aartiTimings": [
-      "05:00",
-      "05:30",
-      "17:00"
-    ],
-    "templeInfo": {
-      "description": "Sri Bhramarambika sametha Mallikarjuna swamy Devasthanam (romanised: Mallikārjunuḍu) or Srisailam Temple is a Hindu temple dedicated to the deities Shiva and Parvati, located at Srisailam in the Indian state of Andhra Pradesh. It is significant to the Hindu sects of both Shaivism and Shaktism as this temple is referred to as one of the twelve Jyotirlingas of Shiva and as one of the eighteen Shakti pithas, centres of the Hindu goddess.[1] Shiva is worshiped as Mallikarjuna and is represented by the lingam. His consort Parvati is depicted as Bhramaramba. Legend- When Shiva and Parvati decided to find suitable brides for their sons. Shiva got Buddhi (intellect) and Siddhi (spiritual power) married to Ganesha. Kartikeya on his return was enraged and went away to stay alone on Mount Krauncha in Palani in the name of Kumara brahmachari. On seeing his father coming over to pacify him, he tried to move to another place, but on the request of the Devas, stayed close by. The place where Shiva and Parvati stayed came to be known as Srisailam.[2] According to Hindu legend, the presiding deity in the form of Linga (an iconic form of Shiva) was worshipped with jasmine (locally called in Telugu as Mallika), leading to the name Mallikarjuna.[3]",
-      "hi": "श्री भ्रमराम्बिका समीथा मल्लिकार्जुन स्वामी देवस्थानम ( रोमनकृत : मल्लिकार्जुनुडु) या श्रीशैलम मंदिर एक हिंदू मंदिर है जो भगवान शिव और पार्वती को समर्पित है , जो भारत के आंध्र प्रदेश राज्य के श्रीशैलम में स्थित है। यह शैव और शक्ति दोनों हिंदू संप्रदायों के लिए महत्वपूर्ण है क्योंकि इस मंदिर को शिव के बारह ज्योतिर्लिंगों में से एक और हिंदू देवी के अठारह शक्तिपीठों में से एक के रूप में जाना जाता है। [ 1 ] शिव की पूजा मल्लिकार्जुन के रूप में की जाती है और उन्हें लिंगम द्वारा दर्शाया जाता है । उनकी पत्नी पार्वती को भ्रमराम्बा के रूप में दर्शाया गया है। दंतकथा- जब शिव और पार्वती ने अपने पुत्रों के लिए उपयुक्त वर खोजने का फैसला किया। शिव ने बुद्धि (बुद्धि) और सिद्धि (आध्यात्मिक शक्ति) का विवाह गणेश से करवाया । कार्तिकेय वापस लौटने पर क्रोधित हो गए और कुमार ब्रह्मचारी के नाम से पलानी में क्रौंच पर्वत पर अकेले रहने चले गए । अपने पिता को शांत करने के लिए आते देख उन्होंने दूसरी जगह जाने की कोशिश की, लेकिन देवताओं के अनुरोध पर वे पास ही रुक गए। जिस स्थान पर शिव और पार्वती रुके थे, उसे श्रीशैलम के नाम से जाना जाता है।",
-      "officialWebsite": "https://www.srisailadevasthanam.org/en-in/home",
-      "image": "mallikarnuja.png"
-    }
-  },
-  {
-    "id": 9,
+    "id": 4,
     "name": "kashi",
     "live": true,
     "streamInfo": {
@@ -108,7 +90,7 @@
     "liveUrl": "https://www.youtube.com/embed/8pSi0xZm6ak"
   },
   {
-    "id": 13,
+    "id": 5,
     "name": "siddhivinayak",
     "live": true,
     "streamInfo": {
@@ -130,7 +112,7 @@
     "liveUrl": "https://www.youtube.com/embed/PSSE3vQAJz0"
   },
   {
-    "id": 15,
+    "id": 6,
     "name": "khajrana",
     "live": true,
     "streamInfo": {
@@ -151,7 +133,7 @@
     "liveUrl": "https://www.youtube.com/embed/fxoCwnroOno"
   },
   {
-    "id": 16,
+    "id": 7,
     "name": "matavaishnodevi",
     "live": true,
     "streamInfo": {
@@ -171,7 +153,7 @@
     "liveUrl": "https://www.youtube.com/embed/wn0zteVFr-8"
   },
   {
-    "id": 17,
+    "id": 8,
     "name": "sanwaliaji",
     "live": true,
     "streamInfo": {
@@ -194,7 +176,7 @@
     "liveUrl": "https://www.youtube.com/embed/4F67mY_M6XQ"
   },
   {
-    "id": 18,
+    "id": 9,
     "name": "dwarkadhish",
     "live": true,
     "streamInfo": {
@@ -216,7 +198,7 @@
     "liveUrl": "https://www.youtube.com/embed/iQ1_Hvwryx0"
   },
   {
-    "id": 19,
+    "id": 10,
     "name": "kasthbhanjanhanumanji",
     "live": true,
     "streamInfo": {
@@ -238,7 +220,7 @@
     "liveUrl": "https://www.youtube.com/embed/SOMWOTvJ6f8"
   },
   {
-    "id": 20,
+    "id": 11,
     "name": "govinddevji",
     "live": true,
     "streamInfo": {
@@ -263,7 +245,7 @@
     "liveUrl": "https://www.youtube.com/embed/c7jtxJuC07c"
   },
   {
-    "id": 21,
+    "id": 12,
     "name": "baglamukhimataji",
     "live": true,
     "streamInfo": {
@@ -282,7 +264,25 @@
     }
   },
   {
-    "id": 4,
+    "id": 13,
+    "name": "mallikarjuna",
+    "live": false,
+    "liveUrl": "https://www.youtube.com/embed/rfppvswfMyc?start=11",
+    "fallbackUrl": "",
+    "aartiTimings": [
+      "05:00",
+      "05:30",
+      "17:00"
+    ],
+    "templeInfo": {
+      "description": "Sri Bhramarambika sametha Mallikarjuna swamy Devasthanam (romanised: Mallikārjunuḍu) or Srisailam Temple is a Hindu temple dedicated to the deities Shiva and Parvati, located at Srisailam in the Indian state of Andhra Pradesh. It is significant to the Hindu sects of both Shaivism and Shaktism as this temple is referred to as one of the twelve Jyotirlingas of Shiva and as one of the eighteen Shakti pithas, centres of the Hindu goddess.[1] Shiva is worshiped as Mallikarjuna and is represented by the lingam. His consort Parvati is depicted as Bhramaramba. Legend- When Shiva and Parvati decided to find suitable brides for their sons. Shiva got Buddhi (intellect) and Siddhi (spiritual power) married to Ganesha. Kartikeya on his return was enraged and went away to stay alone on Mount Krauncha in Palani in the name of Kumara brahmachari. On seeing his father coming over to pacify him, he tried to move to another place, but on the request of the Devas, stayed close by. The place where Shiva and Parvati stayed came to be known as Srisailam.[2] According to Hindu legend, the presiding deity in the form of Linga (an iconic form of Shiva) was worshipped with jasmine (locally called in Telugu as Mallika), leading to the name Mallikarjuna.[3]",
+      "hi": "श्री भ्रमराम्बिका समीथा मल्लिकार्जुन स्वामी देवस्थानम ( रोमनकृत : मल्लिकार्जुनुडु) या श्रीशैलम मंदिर एक हिंदू मंदिर है जो भगवान शिव और पार्वती को समर्पित है , जो भारत के आंध्र प्रदेश राज्य के श्रीशैलम में स्थित है। यह शैव और शक्ति दोनों हिंदू संप्रदायों के लिए महत्वपूर्ण है क्योंकि इस मंदिर को शिव के बारह ज्योतिर्लिंगों में से एक और हिंदू देवी के अठारह शक्तिपीठों में से एक के रूप में जाना जाता है। [ 1 ] शिव की पूजा मल्लिकार्जुन के रूप में की जाती है और उन्हें लिंगम द्वारा दर्शाया जाता है । उनकी पत्नी पार्वती को भ्रमराम्बा के रूप में दर्शाया गया है। दंतकथा- जब शिव और पार्वती ने अपने पुत्रों के लिए उपयुक्त वर खोजने का फैसला किया। शिव ने बुद्धि (बुद्धि) और सिद्धि (आध्यात्मिक शक्ति) का विवाह गणेश से करवाया । कार्तिकेय वापस लौटने पर क्रोधित हो गए और कुमार ब्रह्मचारी के नाम से पलानी में क्रौंच पर्वत पर अकेले रहने चले गए । अपने पिता को शांत करने के लिए आते देख उन्होंने दूसरी जगह जाने की कोशिश की, लेकिन देवताओं के अनुरोध पर वे पास ही रुक गए। जिस स्थान पर शिव और पार्वती रुके थे, उसे श्रीशैलम के नाम से जाना जाता है।",
+      "officialWebsite": "https://www.srisailadevasthanam.org/en-in/home",
+      "image": "mallikarnuja.png"
+    }
+  },
+  {
+    "id": 14,
     "name": "omkareshwar",
     "live": false,
     "liveUrl": "https://www.youtube.com/embed/pC4232_RIXI",
@@ -300,7 +300,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 15,
     "name": "bhimashankar",
     "live": false,
     "liveUrl": "https://www.youtube.com/embed/92EtGplwANI?amp;start=48",
@@ -317,7 +317,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 16,
     "name": "rameswaram",
     "live": false,
     "liveUrl": "https://www.youtube.com/embed/b4TKLXBHEyA?amp;start=23",
@@ -337,7 +337,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 17,
     "name": "nageshwar",
     "live": false,
     "liveUrl": "https://www.youtube.com/embed/e1sTPDj1Bkw",
@@ -354,7 +354,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 18,
     "name": "trimbakeshwar",
     "liveUrl": "https://g2.ipcamlive.com/ea396b13-76c4-4504-8ab9-134daa0b3001",
     "aartiTimings": [
@@ -370,7 +370,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 19,
     "name": "kedarnath",
     "live": false,
     "liveUrl": "https://www.youtube.com/embed/cxlIUOMUrS4?amp;start=114",
@@ -386,7 +386,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 20,
     "name": "grishneshwar",
     "live": false,
     "liveUrl": "https://www.youtube.com/embed/ef8UPbREvwY?amp;start=25",
@@ -403,7 +403,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 21,
     "name": "jagannath",
     "live": true,
     "streamInfo": {
